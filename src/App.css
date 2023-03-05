@@ -28,10 +28,66 @@
   color: #61dafb;
 }
 
+#img {
+  width: 20%;
+  margin: 20px auto;
+}
+@media only screen and (max-width: 600px) {
+  #img {
+      width: 35%;
+      margin: 10px auto;
+    }
+}
+
+img {
+  width: 100%;
+
+}
+
+input {
+  border: solid #DDD 1px;
+  padding: 10px;
+  margin-right: 10px;
+
+}
+
+input:focus-visible {
+  border: solid #DDD 2px;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+  padding: 7px 10px;
+}
+
+#find {
+  background-color: rgb(41, 233, 41);
+  font-weight: bold;
+
+}
+
+#add {
+  background-color: rgb(10, 12, 143);
+  color: #FFF;
+  font-weight: bold;
+}
+
+#edit {
+  background-color: orange;
+  font-weight: bold;
+}
+
+#date {
+  direction: rtl;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
