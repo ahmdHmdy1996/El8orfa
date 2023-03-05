@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/El8orfa/static/css/main.6e5b912b.css",
+    "main.js": "/El8orfa/static/js/main.e03f725c.js",
+    "index.html": "/El8orfa/index.html",
+    "main.6e5b912b.css.map": "/El8orfa/static/css/main.6e5b912b.css.map",
+    "main.e03f725c.js.map": "/El8orfa/static/js/main.e03f725c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e5b912b.css",
+    "static/js/main.e03f725c.js"
+  ]
+}
